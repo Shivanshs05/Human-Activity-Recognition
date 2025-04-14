@@ -12,18 +12,6 @@ This project focuses on recognizing human activities using data collected from s
 - **Features:** 561 time and frequency domain variables
 - **Total Records:** 10,299
 
-## 📁 Project Structure
-
-har-smartphone/ ├── data/ 
-# Dataset files ├── notebooks/ 
-# Jupyter notebooks for EDA and modeling ├── models/ 
-# Trained models ├── src/ 
-# Source code │ ├── preprocess.py 
-# Data preprocessing │ ├── train.py 
-# Model training │ └── evaluate.py 
-# Evaluation metrics ├── requirements.txt 
-# Python dependencies └── README.md 
-
 # Project documentation
 
 ## 🛠️ Features
@@ -35,9 +23,8 @@ har-smartphone/ ├── data/
 
 ## 📈 Results
 
-- **Best Model:** Random Forest
-- **Accuracy:** 93.8%
-- **F1 Score:** 93.5%
+- **Best Model:** Logistic Regression
+- **Accuracy:** 96.59%
 
 ## 🚀 Getting Started
 
