@@ -14,7 +14,15 @@ This project focuses on recognizing human activities using data collected from s
 
 ## 📁 Project Structure
 
-har-smartphone/ ├── data/ # Dataset files ├── notebooks/ # Jupyter notebooks for EDA and modeling ├── models/ # Trained models ├── src/ # Source code │ ├── preprocess.py # Data preprocessing │ ├── train.py # Model training │ └── evaluate.py # Evaluation metrics ├── requirements.txt # Python dependencies └── README.md 
+har-smartphone/ ├── data/ 
+# Dataset files ├── notebooks/ 
+# Jupyter notebooks for EDA and modeling ├── models/ 
+# Trained models ├── src/ 
+# Source code │ ├── preprocess.py 
+# Data preprocessing │ ├── train.py 
+# Model training │ └── evaluate.py 
+# Evaluation metrics ├── requirements.txt 
+# Python dependencies └── README.md 
 
 # Project documentation
 
